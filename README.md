@@ -1,2 +1,2 @@
-# ice-skating
-Small ML assignments
+# Ice Skating Time Prediction
+Small ML assignment
