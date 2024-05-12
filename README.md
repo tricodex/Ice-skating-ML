@@ -1,2 +1,2 @@
-# ice-skating-predictor
- small ml proj
+# ice-skating
+Small ML assignments
